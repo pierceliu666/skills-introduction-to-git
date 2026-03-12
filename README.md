@@ -14,3 +14,16 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+
+
+https://learn.microsoft.com/zh-tw/credentials/certifications/github-foundations/?practice-assessment-type=certification
+
+https://anitahome.github.io/GH900Menu/
+
+
+https://gemini.google.com/gem/1p9LWHPI9hm-UGmJ71J5zhlS9rcL_XHwv?usp=sharing
+
+module01-
+https://github.com/AnitaHome/skills-introduction-to-git
+
